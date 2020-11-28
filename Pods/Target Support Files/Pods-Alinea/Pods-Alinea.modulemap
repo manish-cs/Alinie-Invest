@@ -1,0 +1,6 @@
+framework module Pods_Alinea {
+  umbrella header "Pods-Alinea-umbrella.h"
+
+  export *
+  module * { export * }
+}

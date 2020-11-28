@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "33A479FF-5AFF-4AB0-B6B7-04465B7F3979"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B1F6F6B-2EF1-47D8-BCE5-C6DCBBABE858"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alinea/Modules/Home/View/AIHomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "buttonClick(btn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18845A52-A269-4F85-8A7F-AA7FD7AD3B57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alinea/Modules/Home/View/AIHomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "updateSelectedbarPosition(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18845A52-A269-4F85-8A7F-AA7FD7AD3B57 - 92e69a365c966b8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alinea.AIHomeViewController.updateSelectedbarPosition(index: Swift.Int) -&gt; ()"
+                  moduleName = "Alinea"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishagrawal/Projects/Alinea%20iOS/Alinea/Alinea/Modules/Home/View/AIHomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "18845A52-A269-4F85-8A7F-AA7FD7AD3B57 - b541575a552a7906"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in Alinea.AIHomeViewController.updateSelectedbarPosition(index: Swift.Int) -&gt; ()"
+                  moduleName = "Alinea"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manishagrawal/Projects/Alinea%20iOS/Alinea/Alinea/Modules/Home/View/AIHomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

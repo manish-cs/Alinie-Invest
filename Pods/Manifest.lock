@@ -1,0 +1,20 @@
+PODS:
+  - FontAwesome.swift (1.9.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - FontAwesome.swift
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - FontAwesome.swift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  FontAwesome.swift: 6b52cb7be66eacd28cbfaa0ca7ffd0de4a186a1d
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 33a72b86bfefb0d90b4c29890bbdb9e8892bfccf
+
+COCOAPODS: 1.10.0.rc.1
